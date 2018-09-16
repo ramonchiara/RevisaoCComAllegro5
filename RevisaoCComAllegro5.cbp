@@ -51,6 +51,10 @@
 			<Add after='cmd.exe /c copy .\res\* &quot;$(TARGET_OUTPUT_DIR)&quot;' />
 			<Mode after="always" />
 		</ExtraCommands>
+		<Unit filename="allegro_util.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="allegro_util.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
