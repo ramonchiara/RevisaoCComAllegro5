@@ -19,3 +19,7 @@ A ideia dessa aula é mostrar/rever alguns conceitos de C à medida em que se in
 * https://www.allegro.cc/files/
 * https://www.allegro.cc/manual/5/install/windows.html
 * http://www.rafaeltoledo.net/tutoriais-allegro-5/
+
+## Vídeos com a "aula"
+
+* https://www.youtube.com/playlist?list=PLJtV2doUhYt_lSGsCstVRWju5eMpNBQp5
